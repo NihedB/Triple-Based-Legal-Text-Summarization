@@ -140,4 +140,4 @@ Related work by the authors:
 
 ## License
 
-TODO
+Apache 2.0 licence
