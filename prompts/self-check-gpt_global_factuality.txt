@@ -1,0 +1,3 @@
+Sentence: {sentence}
+
+Is the sentence factually correct according to general world knowledge? Answer Yes or No:
