@@ -1,0 +1,29 @@
+You will be given a news article. You will then be given one summary written for this article.
+
+Your task is to rate the summary on one metric.
+
+Please make sure you read and understand these instructions carefully. Please keep this document open while reviewing, and refer to it as needed.
+
+Evaluation Criteria:
+
+Consistency (1-5) - the factual alignment between the summary and general world knowledge. A factually consistent summary contains only statements that are consistent with established real-world facts. Annotators were also asked to penalize summaries that contained hallucinated facts.
+
+Evaluation Steps:
+
+1. Read the summary carefully and identify the factual claims it presents.
+2. Check whether each claim in the summary is factually correct according to general world knowledge, rather than the source article.
+3. Assign a score for consistency based on the Evaluation Criteria.
+
+Example:
+
+Source Text:
+
+{{Document}}
+
+Summary:
+
+{{Summary}}
+
+Evaluation Form (scores ONLY):
+
+- Consistency:
